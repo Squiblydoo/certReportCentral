@@ -2,7 +2,9 @@
 
 **This tool complements CertReport. CertReport generates a report locally for user submission. CertReportCentral reports the certificate to a public database.**
 
-This tool is intended to reduce the load of effort required to report authenticode certificates. It is intended to take the smallest amount of effort from the reporter, but provide the certificate authority with most the information they need to make a decision. Once submitted, your report will be processed and the status will be viewable on the website. More details to come.
+This tool is intended to reduce the load of effort required to report authenticode certificates. It is intended to take the smallest amount of effort from the reporter, but provide the certificate authority with most the information they need to make a decision. Once submitted, your report will be processed and the status will be viewable on the website: certcentral.org
+
+To use the API, an API key is required. The API key is generated for you the first time you log in and is visible on the profile.
 
 ## Installing
 Use pip! `pip install certReportCentral` or `pip3 install certReportCentral`
